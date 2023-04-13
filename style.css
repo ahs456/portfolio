@@ -1,6 +1,14 @@
 header {
-    background-color: aqua;
+    background-color: rgb(112, 161, 225);
     font-family: 'Courier New', Courier, monospace;
     font-size: 200%;
 }
 
+#About {
+ background-color: rgb(188, 221, 250);
+}
+
+img {
+    width: 800px;
+    height: 500px;
+}
