@@ -56,16 +56,14 @@ h2 {
 p {
     font-size: 300;
     margin-top: 60px;
-    margin-left: 40px;
-    margin-right: 25px;
+    margin-left: 60px;
+    margin-right: 60px;
     margin-bottom: 60px;
 }
 
 .center-page {
     background-color: rgb(188, 221, 250);
 }
-
-/* project section*/
 
 h3 {
     font-size: 350%;
@@ -83,26 +81,30 @@ h4 {
     padding: 10px;
 }
 
-img {
-    width: 800px;
-    height: 500px; 
+h5 {
+    margin-left: 550px;
+    margin-right: 470px;
+    background-color: rgb(86, 86, 182);
+    font-style: italic;
+    font-size: 200%;
+    padding: 10px;
 }
 
 .main-image {
     margin-top: -170px;
     margin-left: 550px;
+    width: 800px;
+    height: 500px;
+    border: 10px solid grey;
 }
 
 .placeholder-1 {
-    width: 400px;
+    width: 420px;
     height: 300px;
+    margin-top: 60px;
+    margin-left: 550px;
+    border: 10px solid grey;
 }
-
-.placeholder {
-    margin-left: 400px;
-}
-
-/* project section*/
 
 h6 {
     font-size: 300%;
