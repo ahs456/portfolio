@@ -1,18 +1,29 @@
 * {
-    font-family: 'monospace'
+    font-family: 'monospace';
 }
 
 header {
+    display: flex;
+    flex-direction: row;
     background-color: rgb(112, 161, 225);
     font-family: 'Courier New', Courier, monospace;
     font-size: 200%;
     width: 100%;
-    border: 10px solid darkblue;
+    border: 10px solid rgb(102, 102, 181);
 }
 
-/* fix the contact section*/
+.Anika{
+    font-size: 200%;
+}
+
 .top-right{
-    
+   margin-left: 500px;
+   margin-top: 15px;
+   font: white;
+}
+
+.welcome-banner{
+    font-size: 150%;
 }
 
 #About {
@@ -20,11 +31,12 @@ header {
 }
 
 img {
+    justify-content: space-between;
     width: 800px;
     height: 500px;
     margin-top: 50px;
     margin-left: 300px;
-    margin-right: 50px;
+    margin-right: 50px; 
 }
 
 .placeholder {
@@ -38,10 +50,12 @@ img {
 }
 
 footer {
-    background-color: rgb(140, 203, 201);
+    background-color: rgb(112, 161, 225);
     font-size: xx-large;
+    border: 10px solid rgb(102, 102, 181);
 }
 
 .footer {
     margin-left: 600px;
+    font-style: italic;
 }
