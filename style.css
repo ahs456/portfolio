@@ -25,24 +25,39 @@ header {
 }
 
 .welcome-banner{
-    font-size: 200%;
+    font-size: 50%;
     font-style: oblique;
     background-color: rgb(188, 221, 250);
     border: 10px solid rgb(212, 210, 210);
 }
 
-.welcome-banner-1{
-    margin-left: 500px;
+.welcome-banner-1 {
+    margin-left: 450px;
     margin-top: 40px;
     margin-bottom: 40px;
 }
 
-#About {
- background-color: rgb(188, 221, 250);
+.side-bar {
+    display: flex;
+    flex: wrap;
+}
+
+h2 {
+    font-size: 350%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 150px;
+}
+
+#about {
+    background-color: rgb(188, 221, 250);
+}
+
+.about {
+    margin left
 }
 
 img {
-    justify-content: space-between;
     width: 800px;
     height: 500px;
     margin-top: 50px;
@@ -73,3 +88,10 @@ img {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+@media screen and (max-width: 768px) {
+    header {
+      flex-direction: column;
+      justify-content: space-between;
+    }
+  }
