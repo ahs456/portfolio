@@ -30,7 +30,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 
 # Screenshot of deployed website
-<img src="./6BDE9F7B-18E2-495D-AD19-2DB29B8226F5_1_201_a.jpeg">
+<img src="./6BDE9F7B-18E2-495D-AD19-2DB29B8226F5_1_201_a.jpeg" alt="deployed website image">
 
 # License
 N/A
