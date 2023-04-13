@@ -54,7 +54,7 @@ h2 {
 }
 
 p {
-    font-size: larger;
+    font-size: 300;
     margin-top: 60px;
     margin-left: 40px;
     margin-right: 25px;
@@ -65,25 +65,28 @@ p {
     background-color: rgb(188, 221, 250);
 }
 
+/* project section*/
+
+h3 {
+    font-size: 350%;
+    margin-top: 300px;
+    margin-bottom: 60px;
+    margin-left: 50px;
+}
+
 img {
     width: 800px;
-    height: 500px;
-    margin-top: 50px;
-    margin-left: 300px;
-    margin-right: 50px; 
+    height: 500px; 
+    margin-top: -400px;
 }
 
-.placeholder {
-    display: inline;
-}
-
-.placeholder img {
+.placeholder-1 {
     width: 500px;
     height: 300px;
-    display: inline;
 }
 
-/* contact information styling*/
+/* project section*/
+
 h6 {
     font-size: 300%;
     margin-top: 60px;
@@ -96,8 +99,8 @@ h6 {
     flex: wrap;
     font-size: 150%;
     margin-top: 70px;
-    margin-left: 200px;
-    margin-right: 25px;
+    margin-left: 350px;
+    margin-right: 20px;
     margin-bottom: 60px;
 }
 
