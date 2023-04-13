@@ -74,10 +74,23 @@ h3 {
     margin-left: 50px;
 }
 
+h4 {
+    margin-left: 550px;
+    margin-right: 90px;
+    background-color: rgb(86, 86, 182);
+    font-style: italic;
+    font-size: 200%;
+    padding: 10px;
+}
+
 img {
     width: 800px;
     height: 500px; 
-    margin-left: 400px;
+}
+
+.main-image {
+    margin-top: -170px;
+    margin-left: 550px;
 }
 
 .placeholder-1 {
