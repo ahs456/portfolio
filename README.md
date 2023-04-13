@@ -1,17 +1,14 @@
 # week-2-portfolio-project
 
 # Description of project
-
 For the second week of bootcamp, I was provided with 0 code and had to create a my first portfolio and mirror an example portfolio.
 
 # User Story
-
 AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 
 # Acceptance Criteria
-
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
@@ -27,7 +24,7 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 # Deployed application link
-
+https://ahs456.github.io/week-2-portfolio-project/
 
 # Screenshot of deployed website
 <img src="./6BDE9F7B-18E2-495D-AD19-2DB29B8226F5_1_201_a.jpeg" alt="deployed website image">
