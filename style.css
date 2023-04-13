@@ -57,7 +57,7 @@ h2 {
     background-color: rgb(188, 221, 250);
 }
 
-p {
+.p {
     font-size: 300;
     margin-top: 60px;
     margin-left: 60px;
@@ -73,7 +73,7 @@ h3 {
     font-size: 350%;
     margin-top: 60px;
     margin-bottom: 60px;
-    margin-left: 50px;
+    margin-left: 45px;
 }
 
 h4 {
@@ -114,15 +114,15 @@ h6 {
     font-size: 300%;
     margin-top: 60px;
     margin-bottom: 60px;
-    margin-left: 80px;
+    margin-left: 82px;
 }
 
 .contact-1 {
     display: flex;
     flex: wrap;
     font-size: 150%;
-    margin-top: 70px;
-    margin-left: 350px;
+    margin-top: 67px;
+    margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 60px;
 }
