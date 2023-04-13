@@ -46,15 +46,19 @@ h2 {
     font-size: 350%;
     margin-top: 60px;
     margin-bottom: 60px;
-    margin-left: 150px;
+    margin-left: 100px;
 }
 
 #about {
     background-color: rgb(188, 221, 250);
 }
 
-.about {
-    margin left
+p {
+    font-size: larger;
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 25px;
+    margin-bottom: 60px;
 }
 
 img {
