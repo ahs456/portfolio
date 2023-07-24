@@ -85,7 +85,7 @@ h4 {
     padding: 10px;
 }
 
-h5 {
+.coming-soon {
     margin-left: 334px;
     margin-right: 687px;
     background-color: rgb(86, 86, 182);
@@ -100,6 +100,23 @@ h5 {
     width: 800px;
     height: 500px;
     border: 10px solid grey;
+}
+
+.placeholder-2 {
+    margin-top: 60px;
+    margin-left: 334px;
+    width: 800px;
+    height: 500px;
+    border: 10px solid grey;
+}
+
+.border {
+    margin-left: 334px;
+    margin-right: 306px;
+    background-color: rgb(86, 86, 182);
+    font-style: italic;
+    font-size: 200%;
+    padding: 10px;
 }
 
 .placeholder-1 {
